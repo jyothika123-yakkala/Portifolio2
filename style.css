@@ -223,7 +223,12 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     background:#ff004f;
-    border-radius: 6px;
+    border-radius: 20px;
+    height : 60px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px 20px;
 }
 .contact-right form{
     width: 100%;
